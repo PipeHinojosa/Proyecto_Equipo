@@ -1,0 +1,89 @@
+# Base de datos: Rendimiento deportivo de los equipos
+
+## Contexto
+
+Esta base de datos se construye con el objetivo de analizar el rendimiento deportivo de los equipos del fútbol chileno y su posible relación con la asistencia a los estadios.
+
+## 1. Fuentes de información
+
+Los datos utilizados en esta investigación fueron obtenidos desde plataformas públicas y oficiales, tales como:
+
+1. ANFP (Asociación Nacional de Fútbol Profesional)  
+2. Transfermarkt  
+3. SofaScore  
+
+Estas plataformas contienen registros actualizados y detallados sobre el desarrollo de cada temporada del fútbol chileno.
+
+## 2. Método de recolección de datos
+
+El método de recolección utilizado corresponde a:
+
+1. Revisión web de plataformas deportivas  
+2. Extracción manual de la información relevante  
+3. Registro de los datos en una planilla Excel  
+
+## 3. Variables de la base de datos
+
+La base de datos contiene las siguientes variables:
+
+1. Posición del equipo  
+2. Equipo  
+3. Puntos obtenidos  
+4. Partidos jugados  
+5. Partidos ganados  
+6. Partidos empatados  
+7. Partidos perdidos  
+
+## 4. Autor y publicación de los datos
+
+Los datos no pertenecen a un único autor, sino que fueron recopilados desde distintas plataformas especializadas en estadísticas deportivas.
+
+La información fue obtenida mediante la revisión de registros disponibles en sitios como ANFP, Transfermarkt y SofaScore, los cuales publican datos oficiales y actualizados de cada temporada.
+
+## 5. Contenido de la base de datos
+
+La base de datos contiene información relacionada con el rendimiento deportivo de los equipos del fútbol chileno.
+
+Incluye los siguientes datos:
+
+1. Posición del equipo  
+2. Equipo  
+3. Puntos obtenidos  
+4. Partidos jugados  
+5. Partidos ganados  
+6. Partidos empatados  
+7. Partidos perdidos  
+
+Estos datos son de tipo cuantitativo y se presentan en formato tabular (Excel/CSV).
+
+**Periodo:**
+
+Los datos corresponden a distintas temporadas del fútbol chileno y se van actualizando constantemente a medida que se disputan los partidos.
+
+## 6. Pertinencia
+
+Esta base de datos es relevante para la investigación porque permite analizar el rendimiento deportivo de cada club.
+
+A partir de esta información, se puede:
+
+1. Evaluar el desempeño de los equipos en cada temporada  
+2. Relacionar el rendimiento deportivo con la asistencia a los estadios  
+3. Identificar posibles patrones entre éxito deportivo y convocatoria de público  
+
+## 7. Metodología
+
+Los datos fueron levantados a partir de la revisión de plataformas web especializadas en estadísticas deportivas.
+
+El proceso consistió en:
+
+1. Búsqueda de información en sitios como ANFP, Transfermarkt y SofaScore  
+2. Selección de las tablas de posiciones por temporada  
+3. Registro manual de los datos en una planilla Excel  
+4. Organización y estandarización de la información  
+
+---
+
+## ### 8. Estructura de la base de datos
+
+| Posición | Equipo | Puntos | PJ | PG | PE | PP |
+|----------|--------|--------|----|----|----|----|

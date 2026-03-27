@@ -2,7 +2,7 @@
 
 ## Síntesis del proyecto
 
-###### El fútbol chileno desde hace décadas se ha transformado en uno de los principales espacios de encuentro social en el país. Miles de personas asisten a los estadios cada temporada para apoyar a sus equipos, sin embargo, en los últimos años se ha observado una disminución en los niveles de asistencia, influida por distintos factores como el rendimiento deportivo, la seguridad en los estadios, los horarios de los partidos y el contexto social del país.
+###### El fútbol chileno desde hace décadas se ha transformado en uno de los principales espacios de encuentro social en el país. Miles de personas asisten a los estadios cada temporada para apoyar a sus equipos, sin embargo, en los últimos años se ha observado una disminución en los niveles de asistencia, influida por distintos factores como el rendimiento deportivo y la seguridad en los estadios.
 
 ###### A partir de esto, surge la necesidad de analizar cómo ha evolucionado la asistencia a los estadios del fútbol chileno a lo largo de las temporadas. El análisis permite no solo comprender el comportamiento de los hinchas, sino también identificar patrones que puedan explicar las distintas variaciones en la convocatoria de público.
 

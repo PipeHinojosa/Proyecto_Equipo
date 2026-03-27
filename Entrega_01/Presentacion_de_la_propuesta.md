@@ -50,40 +50,16 @@
 
 ### ¿Cuál es la historia del proyecto? ¿Qué es lo nuevo?
 
-La historia del proyecto busca mostrar cómo ha evolucionado la asistencia a los estadios del fútbol chileno a lo largo del tiempo y cómo esta se relaciona con el rendimiento deportivo de los equipos.
-Lo central no es solo presentar cifras, sino entender el comportamiento del público: cuándo aumenta la asistencia, cuándo disminuye y por qué ocurre esto. En este sentido, el proyecto intenta responder si los resultados deportivos influyen directamente en la convocatoria o si existen otros factores, como el contexto social, la seguridad en los estadios o la pandemia, que también impactan en la presencia de hinchas.
-Lo novedoso del proyecto radica en el cruce de variables. No se analiza únicamente la asistencia ni solo el rendimiento, sino que se combinan ambos elementos para identificar patrones que normalmente no se observan de manera aislada. Esto permite construir una mirada más completa sobre el fenómeno del fútbol chileno.
+###### La historia del proyecto busca mostrar cómo ha evolucionado la asistencia a los estadios del fútbol chileno a lo largo del tiempo y cómo esta se relaciona con el rendimiento deportivo de los equipos.
+###### Lo central no es solo presentar cifras, sino entender el comportamiento del público: cuándo aumenta la asistencia, cuándo disminuye y por qué ocurre esto. En este sentido, el proyecto intenta responder si los resultados deportivos influyen directamente en la convocatoria o si existen otros factores, como el contexto social, la seguridad en los estadios o la pandemia, que también impactan en la presencia de hinchas.
+###### Una manera de contar la historia, a nuestro parecer, sería dar énfasis en momentos relevantes tanto deportivos, como de seguridad, que permitan realizar una comparación a la vez que el espectador, visualmente, entiende el contexto del momento y las consecuencias que trajo.
 
 ### ¿Qué tipo de elementos digitales les gustaría tener? ¿Cómo ayudan a contar la historia?
 
-Para contar la historia de manera efectiva, se propone utilizar distintos elementos digitales que permitan visualizar los datos de forma clara e interpretativa:
-
-1. **Gráfico de línea (evolución temporal):**  
-   Mostrar la asistencia promedio por año, permitiendo identificar tendencias, caídas (como en pandemia) y posibles recuperaciones.  
-2. **Gráfico de dispersión (rendimiento vs asistencia):**  
-   Relacionar la posición de los equipos con su nivel de asistencia.  
-3. **Gráficos comparativos por equipo:**  
-   Comparar equipos grandes con equipos de menor convocatoria.  
-4. **Destacados o hitos (anotaciones):**  
-   Marcar eventos relevantes como la pandemia o cambios en seguridad.  
-**Referencias:**
-- Visualizaciones tipo gráficos de líneas y dispersión utilizadas en medios como FiveThirtyEight  
-- Ejemplos de storytelling con datos deportivos en plataformas como The Athletic
+###### Para contar la historia de manera efectiva, se propone utilizar distintos elementos digitales que permitan visualizar los datos de forma clara e interpretativa, como podrían ser líneas temporales, imágenes y comparativas directas entre equipos.
 
 ### ¿Qué es lo mínimo que se puede contar con los datos?
-Con los datos disponibles, lo mínimo que se puede contar es:
-
-- Cómo ha variado la asistencia a los estadios a lo largo de los años  
-- Qué equipos han tenido mejor rendimiento en cada temporada  
-- Una comparación básica entre rendimiento deportivo y niveles de asistencia  
-Esto permite construir una primera aproximación descriptiva del fenómeno.
+###### Lo mínimo que podría contarse sería una desconexión total de los datos que no muestren ninguna tendencia.
 
 ### ¿Qué es lo máximo que se puede contar con los datos?
-En un nivel más profundo, los datos permiten:
-
-- Identificar patrones entre rendimiento y asistencia (si van de la mano o no)  
-- Detectar excepciones, como equipos con alta convocatoria pese a bajo rendimiento  
-- Analizar el impacto de factores externos como la pandemia  
-- Comparar comportamientos entre equipos grandes y equipos pequeños  
-- Construir una explicación más compleja sobre el comportamiento del público en el fútbol chileno  
-En este sentido, el proyecto puede pasar de una descripción básica a una interpretación más completa del fenómeno, integrando datos y contexto para generar conclusiones más sólidas.
+###### Lo máximo que podría contarse es una relación directa entre violencia en los estadios, asistencia a los estadios y rendimiento deportivo, encontrando una cadena que permita explicar fenómenos y ayude a mejorar el fútbol nacional.

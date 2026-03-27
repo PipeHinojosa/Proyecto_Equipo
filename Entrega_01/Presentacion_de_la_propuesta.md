@@ -42,3 +42,7 @@ Los datos de asistencia a los estadios y las tablas de posiciones son públicos 
 
 **¿Qué datos son confiables y cuáles no?**  
 Los datos de asistencia y posiciones son considerados confiables, ya que provienen de fuentes oficiales y registros ampliamente utilizados en el ámbito deportivo. Sin embargo, el análisis del contexto social puede implicar cierto grado de interpretación, por lo que se manejará con criterio y respaldo en fuentes verificables.
+
+**Preguntas a responder:**
+Con los datos se puede responder que tanto ha variado la asistencia a estadios de fútbol en Chile desde la implementación del plan Estadio seguro, además de considerar otras variables como el rendimiento deportivo de los clubes
+

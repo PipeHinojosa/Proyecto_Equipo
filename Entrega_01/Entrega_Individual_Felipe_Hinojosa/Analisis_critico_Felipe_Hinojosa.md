@@ -6,4 +6,4 @@
 ###### Otra idea que consideraría interesante es elegir una determinada cantidad de equipos con mayores problemas de violencia en sus estadios y realizar una observación más específica respecto a momentos puntuales, bajo la misma idea de la línea de tiempo. Esto, al poder hacerse con más de un equipo, podría servir como comparativa.
 
 ## Arquetipo
-###### 
+###### Me parece que nuestro proyecto se acerca más al arquetipo de caracterización. Esto debido a que busca reconocer los comportamientos que tienen los hinchas del fútbol en su decisión de asistir al estadio respecto a elementos externos. La comparativa podría demostrarnos ciertas tendencias que ayudarían a comprender mejor la problemática que está siendo la asistencia a los estadios en el balonpié nacional.

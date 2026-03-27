@@ -1,1 +1,4 @@
-hola
+## ¿Qué esperas contar y/o revelar del tema?
+###### Con este proyecto espero reconocer y comprobar si realmente aspectos como la violencia en los estadios, o el rendimiento deportivo de un equipo de fútbol, influye en la decisión de los hinchas sobre asistir a un partido. Hoy, vemos partidos de Primera División de nuestro fútbol con estadios semi vacíos, y aunque esto responde a múltiples factores, como la baja representatividad de las S.A.D. con sus hinchas o el alto precio de las entradas, consideramos al público como un elemento clave del espectáculo. En otros países se ven cada fin de semana estadios llenos, incluso acá en Chile se veían mucho más seguido en el pasado, por eso considero relevante indagar en el comportamiendo de los asistentes para así buscar soluciones al problema.
+
+##

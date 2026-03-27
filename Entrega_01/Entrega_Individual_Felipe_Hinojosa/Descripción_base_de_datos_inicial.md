@@ -8,4 +8,4 @@
 ###### Esta base de datos es muy relevante porque nos permitirá observar cómo varían numéricamente las denuncias y detenciones en torno al estadio y aquello nos dará paso para poder compararlo con las tendencias que revelen las bases de datos de asistencia y de posiciones en la tabla.
 
 ## Metodologia
-###### 
+###### Se recopilaron las cifras de detenciones y denuncias en torno a los tres delitos antes mencionados desde el año 2018 hasta el primer semestre de 2025. Posteriormente se tabularon respecto al tipo de delito y al año que corresponde en tablas separadas, una para denuncias y otra para detenciones.

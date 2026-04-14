@@ -1,0 +1,20 @@
+# 4. Documentación del proceso
+
+### 1. Proceso de limpieza de datos
+
+El proceso de limpieza fue una etapa fundamental en la construcción de la base, ya que permitió corregir errores estructurales y asegurar la coherencia de los datos. En primer lugar, se identificó un desfase en la variable de temporada. Específicamente, los registros correspondientes a un año determinado estaban etiquetados con el año anterior (por ejemplo, la temporada 2018 correspondía en realidad a 2019). Para corregir este problema, se sumó una unidad a todos los valores de la variable temporada. En segundo lugar, se detectó un desfase similar en la variable edad. Entre las temporadas originalmente registradas como 2018 y 2025, la edad de los jugadores no coincidía con su edad real para el año correspondiente. Por esta razón, se ajustó esta variable sumando un año a cada registro, asegurando consistencia entre la edad del jugador y la temporada. Además, se realizó una estandarización de nombres de equipos y jugadores, con el objetivo de evitar errores derivados de diferencias en la escritura. Finalmente, se decidió excluir a los jugadores que no registraron minutaje durante la temporada, ya que estos no tienen incidencia directa en el rendimiento deportivo del equipo, permitiendo así enfocar el análisis en jugadores con participación efectiva.
+
+### 2. Herramientas utilizadas
+
+El proceso de limpieza y organización de los datos fue realizado utilizando Microsoft Excel. Se utilizaron herramientas como fórmulas, filtros, ordenamiento de datos y funciones básicas para corregir errores, transformar variables y estructurar la base de datos.
+
+### 3. Fuentes de datos y justificación
+
+La fuente principal utilizada fue Transfermarkt. Esta plataforma es ampliamente reconocida en el ámbito del fútbol y el análisis deportivo, ya que proporciona información detallada sobre jugadores, equipos y valores de mercado. Su elección se justifica por la disponibilidad de datos históricos, la cobertura de múltiples ligas y la posibilidad de acceder a información estructurada que facilita su uso en análisis cuantitativos. Si bien los valores de mercado corresponden a estimaciones, estos son utilizados comúnmente como una aproximación del valor económico de los jugadores.
+
+### 4. Preguntas que permite responder la base de datos
+
+La base de datos limpia permite abordar diversas preguntas de investigación relacionadas con el rendimiento deportivo y la composición de los equipos. Entre ellas se encuentran:
+- ¿Existe una relación entre el valor de mercado de los planteles y el rendimiento de los equipos en la liga chilena?
+- ¿Qué características (edad, nacionalidad, posición) predominan en los equipos con mejor rendimiento?
+- ¿Existen diferencias en la composición de los planteles entre equipos con mayor y menor capacidad económica?

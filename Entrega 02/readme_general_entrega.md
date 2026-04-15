@@ -2,7 +2,7 @@ En base a las correcciones de la tarea 1, decidimos cambiar el foco de nuestra i
 
 ## Hipótesis: 
 Los equipos que más dinero gastan en fichajes cada temporada no necesariamente obtienen mejores resultados. La estabilidad (mantener a los mismos jugadores y técnicos) es un factor más determinante para el éxito que el valor de mercado del plantel.
-El rango de tiempo considerado para la investigación será desde el año 2018 a 2025. Elegimos ese periodo ya que el 2018 es el año en que se cambia el formato del torneo, pasando de campeonatos semestrales, a un campeonato largo anual, que es el que se mantiene hasta hoy, permitiendo comparar los datos de forma equivalente.
+El rango de tiempo considerado para la investigación será desde el año 2019 a 2026. Elegimos ese periodo ya que el 2018 es el año en que se cambia el formato del torneo, pasando de campeonatos semestrales, a un campeonato largo anual. Por ende para el cmapeonato del 2019, los clubes contaron por primera vez con los premios deportivos del primer campeonato anual, esto permite medir la inversión en base a los ingresos recibidos.
 
 ## Preguntas de investigación:
 ¿Se relaciona la cantidad de dinero invertido por los equipos en jugadores con la obtención de mejores resultados?

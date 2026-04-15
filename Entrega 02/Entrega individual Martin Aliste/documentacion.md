@@ -11,7 +11,7 @@ La herramientas utilizadas fueron Visual Studio Code, Claude para ayudar a progr
 El rango de teimpo (2018-2025) se eligió por una razón en específico. Ese periodo nos permite comparar solo temporadas de torneo largo. Antes del 2018, las temporadas consistían de dos torneos cortos (apertura y clausura), por lo que no se pueden comparar. El 2018 al cambiarse el formato del torneo, fue el primer año que se entregó otro tipo de premio económico al campeón ya que ahora era solo uno anual. Debido a esto, partiremos desde el 2019 porque es el primer premio que se entregó tras un campeonato anual.
 
 ## Proceso de Limpieza de Datos
-La base de datos en general no tenía información que no sirviera para la investigación, sin embargo, se tomó en consideración desde el 2018, que corresponde a la primera temporada con torneo largo, hasta la 2025, la última jugada por completo. Debido a que nuestra investigación parte dese el 2019, se debió limpiar las columnas del año anterior.
+La base de datos en general no tenía información que no sirviera para la investigación, sin embargo, el archivo consideraba datos de la actual temporada 2026, los cuales se eliminaron de la base.
 
 ## Preguntas a responder
 ¿Existe una correlación entre los equipos más exitosos y los que tienen más estabilidad técnica?

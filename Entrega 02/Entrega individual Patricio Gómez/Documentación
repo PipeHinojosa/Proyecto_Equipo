@@ -6,7 +6,7 @@ El proceso de limpieza fue una etapa fundamental en la construcción de la base,
 
 ### 2. Herramientas utilizadas
 
-El proceso de limpieza y organización de los datos fue realizado utilizando Microsoft Excel. Se utilizaron herramientas como fórmulas, filtros, ordenamiento de datos y funciones básicas para corregir errores, transformar variables y estructurar la base de datos.
+El proceso de limpieza y organización de los datos fue realizado utilizando Microsoft Excel. Se utilizaron herramientas como fórmulas, filtros, ordenamiento de datos y funciones básicas para corregir errores, transformar variables y estructurar la base de datos. Previo a eso se utilizó vs code studio, para programar un sistema web que extrajo los datos de Transfermarkt y los guardó como un excel editable
 
 ### 3. Fuentes de datos y justificación
 

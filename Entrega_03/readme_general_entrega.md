@@ -1,8 +1,6 @@
-En base a las correcciones de la tarea 1, decidimos cambiar el foco de nuestra investigación. Al no tener datos más específicos sobre hechos de violencia en estadios y asistencia a partidos, acordamos enfocar el trabajo al rendimiento de los equipos.
-
 ## Hipótesis: 
 Los equipos que más dinero gastan en fichajes cada temporada no necesariamente obtienen mejores resultados. La estabilidad (mantener a los mismos jugadores y técnicos) es un factor más determinante para el éxito que el valor de mercado del plantel.
-El rango de tiempo considerado para la investigación será desde el año 2019 a 2026. Elegimos ese periodo ya que el 2018 es el año en que se cambia el formato del torneo, pasando de campeonatos semestrales, a un campeonato largo anual. Por ende para el cmapeonato del 2019, los clubes contaron por primera vez con los premios deportivos del primer campeonato anual, esto permite medir la inversión en base a los ingresos recibidos.
+El rango de tiempo considerado para la investigación será desde el año 2019 a 2026. Elegimos ese periodo ya que el 2018 es el año en que se cambia el formato del torneo, pasando de campeonatos semestrales, a un campeonato largo anual. Por ende para el campeonato del 2019, los clubes contaron por primera vez con los premios deportivos del primer campeonato anual, esto permite medir la inversión en base a los ingresos recibidos.
 
 ## Preguntas de investigación:
 ¿Se relaciona la cantidad de dinero invertido por los equipos en jugadores con la obtención de mejores resultados?
@@ -11,7 +9,7 @@ El rango de tiempo considerado para la investigación será desde el año 2019 a
 ¿Qué tanto ha disminuido o aumentado la brecha de valor de mercado entre los ”tres grandes” del fútbol chileno (Colo Colo, Universidad de Chile y UC) en comparación al resto de equipos?
 
 ## Avances del proyecto:
-Logramos construir bases de datos con información más detallada que nos permiten cruzar datos para responder las preguntas de investigación. Al modificar el foco y nuestra hipótesis, la metodología también lo hizo. En vez de enfocarnos en conseguir datos sobre violencia y asistencia a partidos (que son limitados), tuvimos que centrarnos en conseguir información ligada al rendimiento de los equipos, como el valor de las plantillas, los cambios de técnico registrados y los traspasos registrados.
+Realizamos conexiones entre diferentes datos que contenían nuestras bases para así sacar conclusiones sobre las aristas que estamos investigando en la actualidad del fútbol nacional. Hicimos diversos intentos y diferentes cruces logrando algunos nos revelaron puntos interesantes de la historia, y también otros que parecían no tener tanta relevancia. De esta manera pudimos llegar a los gráficos presentados y generar una mejor base para posteriormente contar nuestra historia en la entrega próxima.
 
 ## Síntesis de la historia:
 

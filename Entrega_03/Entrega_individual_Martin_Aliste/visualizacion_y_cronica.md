@@ -1,4 +1,4 @@
-#Crónica
+# Crónica
 
 A priori, en el fútbol se suele creer que los equipos que más dinero invierten en fichajes son los que mejor rinden año tras año, sin embargo, a veces la estabilidad es un factor más importante. El análisis de las últimas siete temporadas de la primera división del fútbol chileno (2019-2025), revela que los equipos que logran mantener a un sólo director técnico durante la temporada son los que mejor rendimiento tienen. El 72% de los equipos que terminaron en los tres puestos mantuvieron a un sólo DT durante el año. Por ejemplo, los planteles de la Universidad Católica que fueron campeones el año 2019 y 2020, no cambiaron de técnico durante la temporada.
 

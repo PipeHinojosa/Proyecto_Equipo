@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "axis": {"labelFontSize": 12, "titleFontSize": 13}}, "layer": [{"mark": {"type": "bar", "cornerRadiusEnd": 5}, "encoding": {"color": {"field": "Movimientos_Totales", "legend": null, "scale": {"scheme": "magma"}, "type": "quantitative"}, "tooltip": [{"field": "Equipo", "type": "nominal"}, {"field": "Posicion", "title": "Lugar en Tabla", "type": "quantitative"}, {"field": "Total altas", "title": "Fichajes", "type": "quantitative"}, {"field": "Total bajas", "title": "Salidas", "type": "quantitative"}, {"field": "Movimientos_Totales", "title": "Total Cambios", "type": "quantitative"}], "x": {"field": "Movimientos_Totales", "title": "Movimientos Totales (Altas + Bajas)", "type": "quantitative"}, "y": {"field": "Posicion", "sort": "ascending", "title": "Posici\u00f3n en la Tabla", "type": "ordinal"}}}, {"mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 7, "fontWeight": "bold"}, "encoding": {"text": {"field": "Equipo", "type": "nominal"}, "tooltip": [{"field": "Equipo", "type": "nominal"}, {"field": "Posicion", "title": "Lugar en Tabla", "type": "quantitative"}, {"field": "Total altas", "title": "Fichajes", "type": "quantitative"}, {"field": "Total bajas", "title": "Salidas", "type": "quantitative"}, {"field": "Movimientos_Totales", "title": "Total Cambios", "type": "quantitative"}], "x": {"field": "Movimientos_Totales", "title": "Movimientos Totales (Altas + Bajas)", "type": "quantitative"}, "y": {"field": "Posicion", "sort": "ascending", "title": "Posici\u00f3n en la Tabla", "type": "ordinal"}}}], "data": {"name": "data-d9a61600670e5aa3c6ad32dbfbe16a2e"}, "height": 450, "title": "Actividad en el Plantel vs Posici\u00f3n Final - Temporada 2022", "width": 700, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-d9a61600670e5aa3c6ad32dbfbe16a2e": [{"Temporada": 2022, "Equipo": "CD Universidad Cat\u0097lica", "Total altas": 23, "Altas por traspaso": 21, "Altas libre": 2, "Total bajas": 23, "Bajas por traspaso": 17, "Bajas libre": 6, "Bajas otros": 0, "Posicion": 6.0, "Movimientos_Totales": 46}, {"Temporada": 2022, "Equipo": "CSD Colo-Colo", "Total altas": 28, "Altas por traspaso": 24, "Altas libre": 4, "Total bajas": 19, "Bajas por traspaso": 7, "Bajas libre": 12, "Bajas otros": 0, "Posicion": 1.0, "Movimientos_Totales": 47}, {"Temporada": 2022, "Equipo": "Universidad de Chile", "Total altas": 19, "Altas por traspaso": 15, "Altas libre": 4, "Total bajas": 19, "Bajas por traspaso": 11, "Bajas libre": 7, "Bajas otros": 1, "Posicion": 13.0, "Movimientos_Totales": 38}, {"Temporada": 2022, "Equipo": "CD Palestino", "Total altas": 26, "Altas por traspaso": 18, "Altas libre": 8, "Total bajas": 25, "Bajas por traspaso": 17, "Bajas libre": 8, "Bajas otros": 0, "Posicion": 4.0, "Movimientos_Totales": 51}, {"Temporada": 2022, "Equipo": "Deportes Antofagasta", "Total altas": 21, "Altas por traspaso": 15, "Altas libre": 6, "Total bajas": 16, "Bajas por traspaso": 13, "Bajas libre": 3, "Bajas otros": 0, "Posicion": 16.0, "Movimientos_Totales": 37}, {"Temporada": 2022, "Equipo": "CD Everton", "Total altas": 22, "Altas por traspaso": 17, "Altas libre": 5, "Total bajas": 17, "Bajas por traspaso": 13, "Bajas libre": 4, "Bajas otros": 0, "Posicion": 9.0, "Movimientos_Totales": 39}, {"Temporada": 2022, "Equipo": "CD O'Higgins", "Total altas": 11, "Altas por traspaso": 9, "Altas libre": 2, "Total bajas": 10, "Bajas por traspaso": 6, "Bajas libre": 4, "Bajas otros": 0, "Posicion": 8.0, "Movimientos_Totales": 21}, {"Temporada": 2022, "Equipo": "Uni\u0097n Espa\u0096ola", "Total altas": 19, "Altas por traspaso": 9, "Altas libre": 10, "Total bajas": 18, "Bajas por traspaso": 10, "Bajas libre": 8, "Bajas otros": 0, "Posicion": 11.0, "Movimientos_Totales": 37}, {"Temporada": 2022, "Equipo": "CD Huachipato", "Total altas": 14, "Altas por traspaso": 13, "Altas libre": 1, "Total bajas": 15, "Bajas por traspaso": 11, "Bajas libre": 4, "Bajas otros": 0, "Posicion": 12.0, "Movimientos_Totales": 29}, {"Temporada": 2022, "Equipo": "Coquimbo Unido", "Total altas": 25, "Altas por traspaso": 12, "Altas libre": 13, "Total bajas": 25, "Bajas por traspaso": 16, "Bajas libre": 8, "Bajas otros": 1, "Posicion": 14.0, "Movimientos_Totales": 50}, {"Temporada": 2022, "Equipo": "Uni\u0097n La Calera", "Total altas": 21, "Altas por traspaso": 11, "Altas libre": 10, "Total bajas": 21, "Bajas por traspaso": 15, "Bajas libre": 6, "Bajas otros": 0, "Posicion": 10.0, "Movimientos_Totales": 42}, {"Temporada": 2022, "Equipo": "CD \u0084ublense", "Total altas": 18, "Altas por traspaso": 6, "Altas libre": 12, "Total bajas": 19, "Bajas por traspaso": 9, "Bajas libre": 10, "Bajas otros": 0, "Posicion": 2.0, "Movimientos_Totales": 37}, {"Temporada": 2022, "Equipo": "Audax Italiano", "Total altas": 15, "Altas por traspaso": 13, "Altas libre": 2, "Total bajas": 13, "Bajas por traspaso": 8, "Bajas libre": 5, "Bajas otros": 0, "Posicion": 7.0, "Movimientos_Totales": 28}, {"Temporada": 2022, "Equipo": "Deportes La Serena", "Total altas": 23, "Altas por traspaso": 11, "Altas libre": 12, "Total bajas": 24, "Bajas por traspaso": 12, "Bajas libre": 12, "Bajas otros": 0, "Posicion": 15.0, "Movimientos_Totales": 47}, {"Temporada": 2022, "Equipo": "CD Cobresal", "Total altas": 13, "Altas por traspaso": 6, "Altas libre": 7, "Total bajas": 13, "Bajas por traspaso": 6, "Bajas libre": 7, "Bajas otros": 0, "Posicion": 5.0, "Movimientos_Totales": 26}, {"Temporada": 2022, "Equipo": "Curic\u0097 Unido", "Total altas": 18, "Altas por traspaso": 12, "Altas libre": 6, "Total bajas": 16, "Bajas por traspaso": 8, "Bajas libre": 8, "Bajas otros": 0, "Posicion": 3.0, "Movimientos_Totales": 34}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

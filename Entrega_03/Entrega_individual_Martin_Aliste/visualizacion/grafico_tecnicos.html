@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300, "strokeWidth": 0}, "axis": {"domainColor": "#E0DDD8"}}, "layer": [{"mark": {"type": "bar", "cornerRadiusTopLeft": 4, "cornerRadiusTopRight": 4, "opacity": 0.92}, "encoding": {"color": {"field": "Grupo", "legend": {"labelFontSize": 11, "orient": "top-right", "symbolSize": 120, "title": "Cambios de t\u00e9cnico", "titleFontSize": 12}, "scale": {"domain": ["0 cambios", "1\u20132 cambios", "3+ cambios"], "range": ["#2C6EAB", "#E8A838", "#C94040"]}, "type": "nominal"}, "tooltip": [{"field": "Temporada", "title": "A\u00f1o", "type": "ordinal"}, {"field": "Grupo", "title": "Grupo", "type": "nominal"}, {"field": "promedio_posicion", "format": ".1f", "title": "Posici\u00f3n promedio", "type": "quantitative"}, {"field": "n_equipos", "title": "N\u00b0 de equipos", "type": "quantitative"}], "x": {"axis": {"labelAngle": 0, "labelFontSize": 12, "titleFontSize": 13}, "field": "Temporada", "title": "Temporada", "type": "ordinal"}, "xOffset": {"field": "Grupo", "scale": {"domain": ["0 cambios", "1\u20132 cambios", "3+ cambios"]}, "type": "nominal"}, "y": {"axis": {"gridColor": "#E0DDD8", "labelFontSize": 11, "tickCount": 6, "titleFontSize": 13}, "field": "promedio_posicion", "scale": {"domain": [0, 18]}, "title": "Posici\u00f3n promedio final (menor = mejor)", "type": "quantitative"}}}, {"mark": {"type": "text", "dy": -6, "fontSize": 10, "fontWeight": "bold"}, "encoding": {"color": {"value": "#333333"}, "text": {"field": "promedio_posicion", "format": ".1f", "type": "quantitative"}, "x": {"field": "Temporada", "type": "ordinal"}, "xOffset": {"field": "Grupo", "scale": {"domain": ["0 cambios", "1\u20132 cambios", "3+ cambios"]}, "type": "nominal"}, "y": {"field": "promedio_posicion", "type": "quantitative"}}}, {"mark": {"type": "text", "dy": 12, "fontSize": 8, "fontStyle": "italic"}, "encoding": {"color": {"value": "#999999"}, "text": {"field": "label_n", "type": "nominal"}, "x": {"field": "Temporada", "type": "ordinal"}, "xOffset": {"field": "Grupo", "scale": {"domain": ["0 cambios", "1\u20132 cambios", "3+ cambios"]}, "type": "nominal"}, "y": {"value": 0}}}, {"data": {"name": "data-da7bebb0ac5018a7919b82d39e4dc33e"}, "mark": {"type": "rule", "color": "#999999", "strokeDash": [6, 4], "strokeWidth": 1.2}, "encoding": {"y": {"field": "y", "type": "quantitative"}}}, {"data": {"name": "data-e5d9dd17bca9c470737b1ecc16146361"}, "mark": {"type": "text", "align": "right", "color": "#999999", "dx": -6, "dy": -7, "fontSize": 9}, "encoding": {"text": {"field": "label", "type": "nominal"}, "x": {"field": "x", "type": "ordinal"}, "y": {"field": "y", "type": "quantitative"}}}], "background": "#F7F7F5", "data": {"name": "data-500340735748986988023f92834f4ce4"}, "height": 400, "title": {"text": "Estabilidad t\u00e9cnica y posici\u00f3n final \u2014 Primera Divisi\u00f3n de Chile", "anchor": "start", "fontSize": 16, "offset": 12, "subtitle": "Promedio de posici\u00f3n final seg\u00fan n\u00famero de cambios de t\u00e9cnico por temporada (2019\u20132025)", "subtitleColor": "#666666", "subtitleFontSize": 12}, "width": 720, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-500340735748986988023f92834f4ce4": [{"Temporada": 2019, "Grupo": "0 cambios", "promedio_posicion": 6.5, "n_equipos": 8, "label_n": "n=8"}, {"Temporada": 2019, "Grupo": "1\u20132 cambios", "promedio_posicion": 10.5, "n_equipos": 8, "label_n": "n=8"}, {"Temporada": 2020, "Grupo": "0 cambios", "promedio_posicion": 6.7, "n_equipos": 7, "label_n": "n=7"}, {"Temporada": 2020, "Grupo": "1\u20132 cambios", "promedio_posicion": 12.1, "n_equipos": 9, "label_n": "n=9"}, {"Temporada": 2020, "Grupo": "3+ cambios", "promedio_posicion": 7.5, "n_equipos": 2, "label_n": "n=2"}, {"Temporada": 2021, "Grupo": "0 cambios", "promedio_posicion": 6.6, "n_equipos": 5, "label_n": "n=5"}, {"Temporada": 2021, "Grupo": "1\u20132 cambios", "promedio_posicion": 8.7, "n_equipos": 10, "label_n": "n=10"}, {"Temporada": 2021, "Grupo": "3+ cambios", "promedio_posicion": 16.5, "n_equipos": 2, "label_n": "n=2"}, {"Temporada": 2022, "Grupo": "0 cambios", "promedio_posicion": 5.5, "n_equipos": 8, "label_n": "n=8"}, {"Temporada": 2022, "Grupo": "1\u20132 cambios", "promedio_posicion": 11.5, "n_equipos": 8, "label_n": "n=8"}, {"Temporada": 2023, "Grupo": "0 cambios", "promedio_posicion": 5.1, "n_equipos": 8, "label_n": "n=8"}, {"Temporada": 2023, "Grupo": "1\u20132 cambios", "promedio_posicion": 12.0, "n_equipos": 7, "label_n": "n=7"}, {"Temporada": 2023, "Grupo": "3+ cambios", "promedio_posicion": 13.0, "n_equipos": 1, "label_n": "n=1"}, {"Temporada": 2024, "Grupo": "0 cambios", "promedio_posicion": 7.2, "n_equipos": 6, "label_n": "n=6"}, {"Temporada": 2024, "Grupo": "1\u20132 cambios", "promedio_posicion": 9.2, "n_equipos": 9, "label_n": "n=9"}, {"Temporada": 2024, "Grupo": "3+ cambios", "promedio_posicion": 10.0, "n_equipos": 1, "label_n": "n=1"}, {"Temporada": 2025, "Grupo": "0 cambios", "promedio_posicion": 5.9, "n_equipos": 7, "label_n": "n=7"}, {"Temporada": 2025, "Grupo": "1\u20132 cambios", "promedio_posicion": 9.7, "n_equipos": 7, "label_n": "n=7"}, {"Temporada": 2025, "Grupo": "3+ cambios", "promedio_posicion": 13.5, "n_equipos": 2, "label_n": "n=2"}], "data-da7bebb0ac5018a7919b82d39e4dc33e": [{"y": 8.747826086956522}], "data-e5d9dd17bca9c470737b1ecc16146361": [{"y": 8.747826086956522, "x": "2025", "label": "Media general (8.7)"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

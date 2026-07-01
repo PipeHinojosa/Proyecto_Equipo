@@ -8,3 +8,20 @@
 ###### Sumado a esto, analizamos bases de datos que nos permitieran conocer la cantidad de movimientos en los planteles año a año (altas y bajas), la variación del valor de los mismos planteles por año, la cantidad de cambios de DT de los clubes y todo acompañado de las tablas de posiciones de cada campeonato.
 
 ###### De esta forma, con el análisis hecho, nuestra hipótesis se estaría cumpliendo. Hay una razonable tendencia a creer que los procesos son más importantes que los millones. La estabilidad en los planteles, mantener a los técnicos y la inversión inteligente han sido características de varios de los clubes que han tenidos buenos rendimientos en los últimos años de competencia nacional. Sin embargo, esta no es un patrón que se cumpla a cabalidad, corresponde a una tendencia que también tiene excepciones a la regla, pues si bien el trabajo estable es una arista importante, el deporte tiene esa imprevisibilidad propia de sí.
+
+
+tabla de autoria
+
+
+| Elemento  |        Martin Aliste        |      Patricio Gómez       |             Felipe Hinojosa             |                                                 Observación                                                 |
+|:---------:|:----------------------------------------------------------------:|:---------------:|:----------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+| Temporada | Año calendario del torneo                                        | Numérico        | 2019 -2026                               | Corresponde al año de campeonato                                                                            |
+| Equipo    | Nombre                                                           | texto           | 25 equipos                               | incluye equipos que no jugaron en primera durante todo el periodo                                           |
+| Total Altas  | Total de altas al plantel                                          | Numérico           | 0 en adelante |                                                 |
+| Altas por traspaso  | Altas por traspaso directo de otro club | Numérico | 0 en adelante                            |                               |
+| Altas libre   | Altas de jugadores sin equipo                | Numérico  | 0 en adelante                            |  |
+| Total Bajas  | Total de bajas al plantel | Numérico | 0 en adelante                            |                               |
+| Bajas por traspaso  | Bajas por traspaso directo a otro club | Numérico | 0 en adelante                            |                               |
+| Bajas libre  | Bajas de jugadores que finalizaron contrato | Numérico | 0 en adelante                            |                               |
+| Bajas otros  | Bajas por razones otras | Numérico | 0 en adelante                            |                              |
+| Posición  | Posición en la tabla del campeonato | Numérico | 1-18                            |  Puede variar el número máximo según el año, la cantidad de equipos en la división ha cambiado                             |

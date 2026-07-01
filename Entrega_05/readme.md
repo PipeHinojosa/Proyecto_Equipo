@@ -1,1 +1,3 @@
-
+# El mito de los millones en el fútbol chileno
+###### En el fútbol chileno hay 3 equipos denominados "grandes", que mueven la gran parte de recursos del deporte rey en nuestro país, hablamos de Colo Colo, Universidad de Chile y Universidad Católica. Históricamente han sido los más ganadores y los de mayor arraigo en la sociedad chilena, sin embargo, los últimos años han traído una tendencia donde no han tenido sus mejores años, a pesar de tener indiscutiblemente un presupuesto mucho mayor al resto de equipos de primera y segunda división.
+###### En este reportaje hemos querido desvelar si realmente 

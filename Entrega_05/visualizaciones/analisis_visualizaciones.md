@@ -1,1 +1,10 @@
-si
+# Visualización Patricio Gómez
+El primer gráfico tiene como objetivo destacar la brecha en el valor de mercado de las plantillas de los tres equipos más grandes de Chile (Colo-Colo, Universidad de Chile y Universidad Católica) en comparación con el resto de los clubes de la Primera División. La visualización busca evidenciar cómo el poder económico de estos tres equipos genera una ventaja competitiva considerable desde la conformación de sus planteles.
+
+El segundo gráfico representa la disparidad en el reparto de los ingresos por derechos de transmisión en el fútbol chileno. Resalta que Colo-Colo, Universidad de Chile y Universidad Católica concentran la mayor parte de los recursos económicos (recibiendo un 25,2% del total entre los tres), mientras que el 74,8% restante se distribuye en partes iguales entre los 13 equipos de la categoría, lo que equivale a apenas un 5,7% para cada uno. Este contraste visual expone la desigualdad estructural en la distribución del dinero.
+
+# Visualización Martin Aliste
+Esta visualización busca mostrar la relación directa entre la rotación de directores técnicos en los equipos y su posición final en la tabla de colocaciones. El propósito principal es contrastar los datos con la hipótesis de que un proyecto deportivo basado en la estabilidad y la continuidad tiende a rendir mejor que aquellos clubes que recurren a constantes cambios sobre la marcha. El gráfico permite identificar si la impaciencia de las directivas se traduce en peores resultados deportivos o si, por el contrario, los relevos en el banquillo logran actuar como un revulsivo eficaz.
+
+# Visualización Felipe Hinojosa
+Este gráfico tiene como objetivo cruzar la cantidad de fichajes realizados por cada equipo con su posición final en el campeonato. Al igual que en la visualización de los directores técnicos, el foco está en establecer el impacto que tiene la estabilidad estructural sobre el rendimiento en la cancha. A través de este análisis, se busca determinar si una política de contrataciones masivas suele ser sinónimo de éxito o si, por el contrario, los planteles que mantienen una base sólida de un año a otro logran un desempeño más consistente y competitivo.

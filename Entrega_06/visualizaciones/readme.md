@@ -12,8 +12,9 @@
 
 tabla de autoria
 
-Elemento,Martin Aliste,Patricio Gómez,Felipe Hinojosa
-Gráfico 1,-,X,-
-Gráfico 2,-,X,-
-Gráfico 3,X,-,-
-Gráfico 4,-,-,X
+| Elemento | Martin Aliste | Patricio Gómez | Felipe Hinojosa |
+| :---: | :---: | :---: | :---: |
+| Gráfico 1 | - | X | - |
+| Gráfico 2 | - | X | - |
+| Gráfico 3 | X | - | - |
+| Gráfico 4 | - | - | X |
